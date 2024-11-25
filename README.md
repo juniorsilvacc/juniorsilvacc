@@ -2,7 +2,7 @@
 
 Sou desenvolvedor de aplicações fullstack com enfase em backend, visando sempre manter o código limpo seguindo os princípios SOLID, Design Patterns e DDD. Atualmente graduado em Análise e Desenvolvimento de Sistemas e Engenharia de Software. 
 
-Foco principal tem sido na construção de soluções. Meus conhecimentos inclui o desenvolvimento de aplicativos utilizando tecnologias como Laravel, Vue.js, Javascript, MySQL e arquitetura RESTFul. Minha competência em Teste de Software assegura a qualidade e confiabilidade de cada projeto que desenvolvo.
+Foco principal tem sido na construção de soluções. Meus conhecimentos inclui o desenvolvimento de aplicativos utilizando tecnologias como Python, Django, DRF, Laravel, PostgreSQL, AWS e arquitetura RESTFul. Minha competência em Teste de Software assegura a qualidade e confiabilidade de cada projeto que desenvolvo.
 
 Sempre aprimorando meus conhecimentos técnicos e pessoais. Estou sempre disposto a novas oportunidades e desafios que venham me agregar mais conhecimentos. Busco sempre me atualizar com relação as novas tecnologias do mercado e conhecer o essencial de todos os ramos da área de desenvolvimento de software. 🚀🚀
 
@@ -15,14 +15,17 @@ Sempre aprimorando meus conhecimentos técnicos e pessoais. Estou sempre dispost
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Juniior-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Juniior-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Juniior-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Juniior-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Juniior-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="Juniior-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg">
   <img align="center" alt="Juniior-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="Juniior-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Juniior-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Juniior-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Juniior-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Juniior-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="Juniior-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="Juniior-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Juniior-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg">
+  <img align="center" alt="Juniior-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg">
+  <img align="center" alt="Juniior-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
 </div>
   
 ##
