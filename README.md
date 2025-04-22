@@ -1,10 +1,13 @@
 ## Hi, I'm Junior Silva.
 
-Sou desenvolvedor de aplicações fullstack com enfase em backend, visando sempre manter o código limpo seguindo os princípios SOLID, Design Patterns e DDD. Atualmente graduado em Análise e Desenvolvimento de Sistemas e Engenharia de Software. 
+Engenheiro de Dados com background em desenvolvimento web e backend.
+Com mais de 2 anos de experiência em desenvolvimento, atualmente atuo com foco na construção de pipelines de dados escaláveis, automação de processos ETL e otimização de fluxos de processamento de grandes volumes de dados.
 
-Foco principal tem sido na construção de soluções. Meus conhecimentos inclui o desenvolvimento de aplicativos utilizando tecnologias como Python, Django, DRF, Laravel, PostgreSQL, AWS e arquitetura RESTFul. Minha competência em Teste de Software assegura a qualidade e confiabilidade de cada projeto que desenvolvo.
+Utilizo ferramentas como Python, SQL, Apache Spark, Apache Airflow, Power BI e bancos SQL/NoSQL. Também tenho conhecimento em infraestrutura em nuvem, como AWS (S3, Redshift), garantindo eficiência, escalabilidade e confiabilidade nas soluções de dados.
 
-Sempre aprimorando meus conhecimentos técnicos e pessoais. Estou sempre disposto a novas oportunidades e desafios que venham me agregar mais conhecimentos. Busco sempre me atualizar com relação as novas tecnologias do mercado e conhecer o essencial de todos os ramos da área de desenvolvimento de software. 🚀🚀
+Minha formação inclui graduação em Engenharia de Software e Análise e Desenvolvimento de Sistemas, pós-graduação em Engenharia de Dados e, atualmente, pós-graduando em Análise de Dados. Minha base técnica inclui desenvolvimento com (Django, FastAPI, Docker, APIs RESTful, documentação com Swagger, uso de Docker, testes automatizados e versionamento com Git) fortalece minha atuação como engenheiro de dados, permitindo entender sistemas de ponta a ponta.
+
+Estou sempre em busca de aprimoramento contínuo, com foco em transformar dados em valor estratégico e entregar soluções robustas e inteligentes 🚀🚀
 
 ##
 
@@ -18,9 +21,11 @@ Sempre aprimorando meus conhecimentos técnicos e pessoais. Estou sempre dispost
   <img align="center" alt="Juniior-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Juniior-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="Juniior-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg">
-  <img align="center" alt="Juniior-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Juniior-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg">
   <img align="center" alt="Juniior-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Juniior-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="Juniior-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg">
+  <img align="center" alt="Juniior-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg">
   <img align="center" alt="Juniior-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" alt="Juniior-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Juniior-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg">
