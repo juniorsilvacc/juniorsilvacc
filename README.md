@@ -1,7 +1,6 @@
 ## Hi, I'm Junior Silva.
 
-Engenheiro de Dados com background em desenvolvimento web e backend.
-Com mais de 2 anos de experiência em desenvolvimento, atualmente atuo com foco na construção de pipelines de dados escaláveis, automação de processos ETL e otimização de fluxos de processamento de grandes volumes de dados.
+Engenheiro de Dados com background em desenvolvimento web e backend, com mais de 2 anos de experiência em desenvolvimento, atualmente atuo com foco na construção de pipelines de dados escaláveis, automação de processos ETL e otimização de fluxos de processamento de grandes volumes de dados.
 
 Utilizo ferramentas como Python, SQL, Apache Spark, Apache Airflow, Power BI e bancos SQL/NoSQL. Também tenho conhecimento em infraestrutura em nuvem, como AWS (S3, Redshift), garantindo eficiência, escalabilidade e confiabilidade nas soluções de dados.
 
