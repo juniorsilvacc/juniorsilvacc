@@ -1,43 +1,52 @@
-## Hi, I'm Junior Silva.
+<h1 align="center">Júnior Silva</h1>
+<h4 align="center">Software Developer 💻</h4>
 
-Engenheiro de Dados com background em desenvolvimento web e backend, e com mais de 2 anos de experiência em desenvolvimento. Atualmente, foco na construção de pipelines de dados escaláveis, automação de processos ETL e otimização de fluxos de processamento de grandes volumes de dados.
-
-Utilizo ferramentas como Python, SQL, Apache Spark, Apache Airflow, Power BI e bancos SQL/NoSQL. Também tenho conhecimento em infraestrutura em nuvem, como AWS (S3, Redshift), garantindo eficiência, escalabilidade e confiabilidade nas soluções de dados.
-
-Minha formação inclui graduação em Engenharia de Software e Análise e Desenvolvimento de Sistemas, pós-graduação em Engenharia de Dados e, atualmente, pós-graduando em Análise de Dados. Minha base técnica inclui desenvolvimento com (Django, FastAPI, Docker, APIs RESTful, documentação com Swagger, uso de Docker, testes automatizados e versionamento com Git) fortalece minha atuação como engenheiro de dados, permitindo entender sistemas de ponta a ponta.
-
-Estou sempre em busca de aprimoramento contínuo, com foco em transformar dados em valor estratégico e entregar soluções robustas e inteligentes 🚀🚀
+<div align="center">
+  <p>
+    Desenvolvedor Web & Backend, com conhecimento em <strong>APIs RESTful</strong>, 
+    <strong>aplicações escaláveis</strong> e <strong>integrações entre sistemas</strong>
+  </p>
+  <p>
+    🎓 Formação em Engenharia de Software e Análise de Sistemas, com pós-graduação em Engenharia e Análise de Dados
+  </p>
+</div>
 
 ##
 
 <div>
   <a href="https://github.com/juniorsilvacc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorsilvacc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorsilvacc&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorsilvacc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorsilvacc&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Juniior-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Juniior-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="Juniior-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg">
-  <img align="center" alt="Juniior-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg">
-  <img align="center" alt="Juniior-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Juniior-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="Juniior-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg">
-  <img align="center" alt="Juniior-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg">
-  <img align="center" alt="Juniior-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="Juniior-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Juniior-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg">
-  <img align="center" alt="Juniior-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg">
-  <img align="center" alt="Juniior-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
+  <img align="center" alt="Junior-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Junior-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Junior-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Junior-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Junior-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="Junior-DRF" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg">
+  <img align="center" alt="Junior-FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
+  <img align="center" alt="Junior-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="Junior-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Junior-Pytest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg">
+  <img align="center" alt="Junior-Swagger" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg">
+  <img align="center" alt="Junior-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
 </div>
-  
+
 ##
-  
+
 <div> 
-  <a href="https://www.linkedin.com/in/juniiorsilvadev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/juniiorsilva.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:juniiorsilvadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/juniiorsilvadev/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="https://www.instagram.com/juniiorsilva.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:juniiorsilvadev@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
   
   ![Snake animation](https://github.com/juniorsilvacc/juniorsilvacc/blob/output/github-contribution-grid-snake.svg)
 </div>
