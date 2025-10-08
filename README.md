@@ -3,11 +3,10 @@
 
 <div align="center">
   <p>
-    Desenvolvedor Web & Backend, com conhecimento em <strong>APIs RESTful</strong>, 
-    <strong>aplicações escaláveis</strong> e <strong>integrações entre sistemas</strong>
+    Desenvolvedor Web e Backend, com conhecimento em APIs RESTful, aplicações escaláveis e integrações entre sistemas.
   </p>
   <p>
-    🎓 Formação em Engenharia de Software e Análise de Sistemas, com pós-graduação em Engenharia e Análise de Dados
+    🎓 Formação em Engenharia de Software e Análise e Desenvolvimento de Sistemas, com pós-graduação em Engenharia e Análise de Dados.
   </p>
 </div>
 
