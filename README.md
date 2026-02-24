@@ -1,27 +1,27 @@
 <h1 align="center">Cícero Júnior</h1>
-<h4 align="center">Analista de Dados | ETL & BI | Backend Python</h4>
+<h4 align="center">Analytics Engineer | Data Pipelines | Python</h4>
 
 <div align="center">
   <p>
-    Analista de Dados e Desenvolvedor de Sistemas, atuando na construção de pipelines (ETL), integração de dados via APIs e criação de dashboards e indicadores para apoio à tomada de decisão.
+    Atuo na construção e orquestração de pipelines de dados (ETL/ELT), modelagem e transformação com dbt, Airflow e Databricks, desenvolvendo soluções analíticas escaláveis. Background em desenvolvimento de sistemas e integrações via APIs, agregando visão de arquitetura às soluções de dados.
   </p>
   <p>
-    🎓 Formação em Engenharia de Software e Análise e Desenvolvimento de Sistemas, com pós-graduação em Engenharia de Dados e Análise de Dados.
+    🎓 Engenharia de Software e Análise e Desenvolvimento de Sistemas | Pós-graduação em Engenharia de Dados e Análise de Dados.
   </p>
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Junior-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Junior-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Junior-NumPy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Junior-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="Junior-DRF" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg">
-  <img align="center" alt="Junior-FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
-  <img align="center" alt="Junior-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Junior-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Junior-Pytest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg">
+  <img align="center" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:1016/1*7HGfANnloBggMCl0u4RcYA.png">
+  <img align="center" height="30" width="40" src="https://cdn.simpleicons.org/databricks/FF3621">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Junior-Swagger" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg">
-  <img align="center" alt="Junior-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
 </div>
 
 ##
