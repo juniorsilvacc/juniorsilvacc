@@ -1,9 +1,9 @@
 <h1 align="center">Cícero Júnior</h1>
-<h4 align="center">Analytics Engineer | Data Pipelines | Python</h4>
+<h4 align="center">Data Engineer | Python & SQL</h4>
 
 <div align="center">
   <p>
-    Atuo na construção e orquestração de pipelines de dados (ETL/ELT), modelagem e transformação com dbt, Airflow e Databricks, desenvolvendo soluções analíticas escaláveis. Background em desenvolvimento de sistemas e integrações via APIs, agregando visão de arquitetura às soluções de dados.
+    Atuo na construção e evolução de pipelines escaláveis, com foco em modelagem analítica e arquiteturas de dados modernas. Conhecimento em transformar dados brutos em soluções analíticas robustas em ambientes cloud.
   </p>
   <p>
     🎓 Engenharia de Software e Análise e Desenvolvimento de Sistemas | Pós-graduação em Engenharia de Dados e Análise de Dados.
