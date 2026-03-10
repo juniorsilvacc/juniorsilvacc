@@ -1,32 +1,41 @@
 <h1 align="center">Cícero Júnior</h1>
-<h4 align="center">Data Engineer | Python & SQL</h4>
+<h4 align="center">Data Engineer | Data Pipelines</h4>
 
 <div align="center">
   <p>
-    Atuo na construção e evolução de pipelines escaláveis, com foco em modelagem analítica e arquiteturas de dados modernas. Conhecimento em transformar dados brutos em soluções analíticas robustas em ambientes cloud.
+    Atuo na construção e evolução de pipelines escaláveis, modelagem analítica e arquiteturas de dados modernas. Conhecimento em transformar dados brutos em soluções analíticas robustas.
   </p>
   <p>
-    🎓 Engenharia de Software e Análise e Desenvolvimento de Sistemas | Pós-graduação em Engenharia de Dados e Análise de Dados.
+    🎓 Engenharia de Software e Análise e Desenvolvimento de Sistemas <br>
+    📜 Pós-graduação em Engenharia de Dados e Análise de Dados
   </p>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Junior-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="Junior-DRF" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg">
-  <img align="center" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:1016/1*7HGfANnloBggMCl0u4RcYA.png">
-  <img align="center" height="30" width="40" src="https://cdn.simpleicons.org/databricks/FF3621">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Junior-Swagger" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg">
+<br>
+
+<div align="center">
+  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
+  &nbsp;&nbsp;
+  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL">
+  &nbsp;&nbsp;
+  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow">
+  &nbsp;&nbsp;
+  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="Spark">
+  &nbsp;&nbsp;
+  <img height="38" width="38" src="https://cdn.simpleicons.org/databricks/FF3621" alt="Databricks">
+  &nbsp;&nbsp;
+  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker">
+  &nbsp;&nbsp;
+  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
+  &nbsp;&nbsp;
+  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django">
+  &nbsp;&nbsp;
+  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger">
 </div>
 
 ##
 
-<div> 
+<div align="center"> 
   <a href="https://www.linkedin.com/in/juniiorsilvadev/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
