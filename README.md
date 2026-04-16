@@ -13,25 +13,17 @@
 
 <br>
 
-<div align="center">
-  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
-  &nbsp;&nbsp;
-  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL">
-  &nbsp;&nbsp;
-  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow">
-  &nbsp;&nbsp;
-  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="Spark">
-  &nbsp;&nbsp;
-  <img height="38" width="38" src="https://cdn.simpleicons.org/databricks/FF3621" alt="Databricks">
-  &nbsp;&nbsp;
-  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker">
-  &nbsp;&nbsp;
-  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
-  &nbsp;&nbsp;
-  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django">
-  &nbsp;&nbsp;
-  <img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger">
-</div>
+<p align="center">
+  <img height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;
+  <img height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">&nbsp;
+  <img height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg">&nbsp;
+  <img height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg">&nbsp;
+  <img height="38" src="https://cdn.simpleicons.org/databricks/FF3621">&nbsp;
+  <img height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">&nbsp;
+  <img height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;
+  <img height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">&nbsp;
+  <img height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg">
+</p>
 
 ##
 
